@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://acortar.link/Wo3Z70" width="300" />
+    <img src="https://acortar.link/eGBpkM" width="300" />
     <h1 align="center">Hello (world) 👋, I'm GetRhifted also known as Michael.</h1>
     <h3 align="center">I'm passionate about learning, enjoy knowing and creating with what I have learned, mastering and sharing and, of course, growing hand in hand with new technologies (and games).
     </h3>
