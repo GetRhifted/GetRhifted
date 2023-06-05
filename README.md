@@ -23,4 +23,4 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="fasAPI" alt="fastAPI" width="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40"/>&nbsp;
-         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="GitHub" alt="GitHub" width="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40"/>&nbsp;
